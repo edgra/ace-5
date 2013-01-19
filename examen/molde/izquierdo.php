@@ -12,9 +12,9 @@ foreach ( $_GET as $log => $login){
 	echo "$log: $login";
 	}
 ?>
-<table width="100" height="380" border="0" align="center">
-  <tr>
-    <td height="35"><a href="historia.html" target="marcoderecho">INTRODUCCION</a>
+
+YO BORRE DOS LINEAS DE COGIDO COMO PRACTICA PA VER Q SUCEDE
+
 </td>
   </tr>
   <tr>

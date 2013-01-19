@@ -21,12 +21,10 @@ YO BORRE DOS LINEAS DE COGIDO COMO PRACTICA PA VER Q SUCEDE
     <td  height="35"><a href="comados.html" target="marcoderecho">COMANDOS</a></td>
   </tr>
   <tr>
-    <td  height="35"><a href="consultas.html" target="marcoderecho">CONSULTAS</a></td>
+<td  height="35"><a href="comados.html" target="marcoderecho">COMANDOS</a></td>
   </tr>
-   <tr>
-    <td  height="35"><a href="descargas.html" target="marcoderecho">DESCARGAS</a></td>
-  </tr>
-  <tr>
+
+     <tr>
     <td  height="35"><a href="video.html" target="marcoderecho">VIDEO</a></td>
   </tr>
   <tr>

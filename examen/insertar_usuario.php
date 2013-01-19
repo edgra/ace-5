@@ -17,7 +17,7 @@ if ($result){
 		
 		else
 		{    
-			echo "El usuario ya existe, no es posible almacenar nuevamente ";
+			echo "El usuario ya existe, no es posible almacenar el mismo usuario ";
 		}
 		
 }

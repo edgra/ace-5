@@ -18,7 +18,7 @@ if ($result){
 		
 		else
 		{    
-			echo "Datos  incorrectos ";
+			echo "Datos  Incorrectos ";
 			echo "</br>"; 
             echo "<a href=index.php>Volver a inicio</a>";
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta  charset="utf-8" />
-<title>Software Educativo</title>
+<title>Trabajo Colaborativo y NTICS</title>
 </head>
 <body>
 &nbsp;
